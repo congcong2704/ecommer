@@ -2,7 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: content-box;
+    
 
+}
+.heading__title1{
+    text-align: center;
+    font-size: 50px;
+    color:#0052b2;
 }
 
 body {
@@ -682,8 +688,10 @@ li {
     display: block;
     padding: 2rem 2rem 4.5rem;
     text-align: center;
-    transition: box-shadow 0.2s linear;
-    background-color: pink;
+    box-shadow:10px 10px 5px rgb(217, 173, 230);
+    
+    background-color: pink ;
+    
 }
 
 .popular__link .btn--secondary {
